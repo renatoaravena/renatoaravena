@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **renatoaravena/renatoaravena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 I’m currently learning Java and in the future i want to be a cybersecurity engineer.
+## 👾 I like videogames so u should talk me to play sometime!.
+
