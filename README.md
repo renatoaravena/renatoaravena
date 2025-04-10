@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  💻 I’m currently learning Java and in the future i want to be a cybersecurity engineer.
+ 
  👾 I like videogames so u should talk me to play sometime!.
 
