@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
  👾 I like videogames so u should talk me to play sometime!.
 
-[![Cisco Cybersecurity Badge](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/8017c040-5cce-499f-b1c3-06b79125918c/public_url)
+[![Cisco Cybersecurity Badge](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/8017c040-5cce-499f-b1c3-06b79125918c/public_url)
 
 
 
