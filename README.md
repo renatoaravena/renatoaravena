@@ -18,3 +18,5 @@ Here are some ideas to get you started:
  
  👾 I like videogames so u should talk me to play sometime!.
 
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8017c040-5cce-499f-b1c3-06b79125918c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
