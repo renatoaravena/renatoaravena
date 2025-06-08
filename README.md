@@ -18,9 +18,7 @@ Here are some ideas to get you started:
  
  👾 I like videogames so u should talk me to play sometime!.
 
- <a href="https://www.credly.com/badges/8017c040-5cce-499f-b1c3-06b79125918c" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/8017c040-5cce-499f-b1c3-06b79125918c" alt="Cisco Cybersecurity Badge" width="150">
-</a>
+[![Cisco Cybersecurity Badge](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/8017c040-5cce-499f-b1c3-06b79125918c/public_url)
 
 
 
